@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  .header-container {
+    font-size: xx-large;
+    font-family: Jazz LET, fantasy;
+    color: black;
+    background-color: lightblue;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .header {
+    width: 900px;
+    height: 300px;
+    display: flex;
+    justify-content: space-between;
+  }
+
+
+.content {
+  .footer {
+    font-size: x-large;
+    font-family: Jazz LET, fantasy;
+    display: flex;
+    justify-content: center;
+    font-size: xx-large;
+    font-family: Jazz LET, fantasy;
+    color: black;
+}
+}
+
+.clickers {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.container {
+
+font-size: xx-large;
+    font-family: Jazz LET, fantasy;
+    color: black;
+}
+.footer {
+  font-size: xx-large;
+  font-family: Jazz LET, fantasy;
+  color: black;
+  display: flex;
+  justify-content: center;
+  flex-shrink: 0;
+}
+
+$(".fa").hover();
